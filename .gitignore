@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+*.pem
+bin/
+dist/
+coverage.out
+*.test
+.DS_Store
